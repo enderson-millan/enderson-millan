@@ -69,7 +69,7 @@ Engenheiro de Software Full-Stack com **+10 anos de experiência acumulada em TI
       </td>
       <td>
         <a href="https://github.com/ENDERSON-MARIN/DUNAMIS-SHOWCASE"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white" /></a>
-        <a href="https://www.dunamis.endersonmillan.com/"><img src="https://img.shields.io/badge/Live-28A745?style=flat&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://dunamis.endersonmillan.com/"><img src="https://img.shields.io/badge/Live-28A745?style=flat&logo=googlechrome&logoColor=white" /></a>
       </td>
     </tr>
     <tr>
